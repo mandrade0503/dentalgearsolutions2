@@ -1,0 +1,68 @@
+/* Estilos básicos */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background-color: #f4f4f9;
+    color: #333;
+  }
+  
+  /* Cabeçalho */
+  header {
+    background: #0077b6;
+    color: #fff;
+    text-align: center;
+    padding: 1.5rem 0;
+  }
+  
+  header h1 {
+    margin: 0;
+  }
+  
+  /* Descrição */
+  .description {
+    text-align: center;
+    margin: 2rem auto;
+    max-width: 600px;
+    padding: 0 1rem;
+  }
+  
+  /* Contato */
+  .contact {
+    text-align: center;
+    margin: 2rem auto;
+    padding: 0 1rem;
+  }
+  
+  .contact h2 {
+    color: #0077b6;
+  }
+  
+  .contact ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .contact li {
+    margin: 0.5rem 0;
+  }
+  
+  .contact a {
+    color: #0077b6;
+    text-decoration: none;
+  }
+  
+  .contact a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Rodapé */
+  footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+    margin-top: 2rem;
+  }
+  
